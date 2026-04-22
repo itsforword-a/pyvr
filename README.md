@@ -2,7 +2,7 @@
 
 VRFX - это библиотека Python для создания приложений виртуальной реальности с поддержкой WebXR (браузерная VR) и SteamVR (нативные шлемы). Библиотека автоматически определяет окружение и запускает соответствующий бэкенд без ручной настройки.
 
-https://img.shields.io/github/stars/username/pyvrfx 
+![Stars](https://img.shields.io/github/stars/username/pyvrfx)
 
 ## Возможности
 
